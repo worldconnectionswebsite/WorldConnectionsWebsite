@@ -884,6 +884,10 @@ section {
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
 }
 
 .portfolio .icon-box .icon {
