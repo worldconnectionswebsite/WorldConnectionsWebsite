@@ -218,7 +218,7 @@
           el.classList.remove('filter-active');
         });
         this.classList.add('filter-active');
-
+        console.log(this.classList)
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')
         });
