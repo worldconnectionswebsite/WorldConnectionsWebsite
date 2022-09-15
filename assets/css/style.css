@@ -888,11 +888,12 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  
 }
 
 .portfolio .icon-box::before {
   content: "";
-  background: #fff;
+  background: rgba(21, 21, 21, 0.6);
   position: absolute;
   left: 0;
   right: 0;
@@ -901,7 +902,9 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+  
 }
+
 
 .portfolio .icon-box .icon {
   margin: 0 auto;
