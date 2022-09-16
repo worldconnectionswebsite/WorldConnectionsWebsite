@@ -1192,17 +1192,7 @@ section {
   opacity: 1;
 }
 
-@media (min-width: 1024px) {
-  .testimonials {
-    background-attachment: fixed;
-  }
-}
 
-@media (min-width: 992px) {
-  .testimonials .testimonial-item p {
-    width: 80%;
-  }
-}
 
 /*--------------------------------------------------------------
 # Team
