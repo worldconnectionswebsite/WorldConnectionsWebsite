@@ -1135,7 +1135,8 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   background-size: cover;
-
+  max-width:65%;
+  max-height:73.125%;
 }
 
 .testimonials .testimonial-item h3 {
