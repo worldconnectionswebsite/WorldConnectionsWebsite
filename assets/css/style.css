@@ -1172,6 +1172,7 @@ section {
 .testimonials .testimonial-item p {
   margin: 0 auto 15px auto;
   color: rgb(48, 48, 48);
+  text-align: left;
 }
 
 .testimonials .swiper-pagination {
