@@ -1148,8 +1148,8 @@ section {
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #ddd;
-  margin: 0 0 15px 0;
+  font-weight: 700;
+  color: #E2C56F;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
