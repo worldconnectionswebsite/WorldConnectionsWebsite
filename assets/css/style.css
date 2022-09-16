@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Vilane", sans-serif;
   color: #444444;
 }
 
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Vilane", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -145,7 +145,7 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 700;
+  font-weight: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -443,7 +443,7 @@ h6 {
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
 }
 
 #hero h1 span {
@@ -535,7 +535,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
 }
 
 .section-title h2::after {
@@ -553,7 +553,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
   color: #151515;
 }
 
@@ -563,7 +563,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
 }
 
 .about .content ul {
@@ -736,7 +736,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1058,7 +1058,7 @@ section {
 .counts .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
   font-size: 14px;
   color: #3b3b3b;
 }
@@ -1069,7 +1069,7 @@ section {
   margin-top: 20px;
   color: #3b3b3b;
   font-size: 15px;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
@@ -1517,7 +1517,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Vilane", sans-serif;
   color: #fff;
 }
 
