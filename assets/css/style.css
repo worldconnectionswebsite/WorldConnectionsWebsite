@@ -468,6 +468,8 @@ h6 {
   font-weight: 700;
   font-size: 28px;
   font-family: "Vilane", sans-serif;
+  color: #fff;
+
 }
 
 #hero .content ul {
@@ -478,6 +480,8 @@ h6 {
 #hero .content ul li {
   padding: 0 0 8px 26px;
   position: relative;
+  color: #fff;
+
 }
 
 #hero .content ul i {
@@ -490,6 +494,7 @@ h6 {
 
 #hero .content p:last-child {
   margin-bottom: 0;
+  color: #fff;
 }
 
 #hero .icon-box i {
