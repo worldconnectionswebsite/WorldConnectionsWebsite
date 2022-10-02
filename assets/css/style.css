@@ -496,6 +496,11 @@ h6 {
   color: #fff;
 }
 
+#hero .content p {
+  margin-bottom: 0;
+  color: #fff;
+}
+
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
