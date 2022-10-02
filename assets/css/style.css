@@ -464,6 +464,34 @@ h6 {
   text-align: center;
 }
 
+#hero .content h3 {
+  font-weight: 700;
+  font-size: 28px;
+  font-family: "Vilane", sans-serif;
+}
+
+#hero .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+#hero .content ul li {
+  padding: 0 0 8px 26px;
+  position: relative;
+}
+
+#hero .content ul i {
+  position: absolute;
+  font-size: 20px;
+  left: 0;
+  top: -3px;
+  color: #E2C56F;
+}
+
+#hero .content p:last-child {
+  margin-bottom: 0;
+}
+
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
