@@ -231,9 +231,9 @@
   });
 
   window.addEventListener('load', () => {
-    let portfolioContainer = select('.portfolio-container2');
-    if (portfolioContainer) {
-      let portfolioIsotope = new Isotope(portfolioContainer, {
+    let portfolioContainer2 = select('.portfolio-container2');
+    if (portfolioContainer2) {
+      let portfolioIsotope = new Isotope(portfolioContainer2, {
         itemSelector: '.portfolio-item'
       });
 
