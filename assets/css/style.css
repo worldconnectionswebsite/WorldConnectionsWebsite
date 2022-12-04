@@ -968,6 +968,7 @@ section {
 .portfolio .icon-box h4 a {
   color: #151515;
   transition: ease-in-out 0.3s;
+  text-align: center;
 }
 
 .portfolio .icon-box h4 a:hover {
