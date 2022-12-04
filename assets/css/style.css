@@ -802,6 +802,10 @@ section {
   margin-bottom: 30px;
 }
 
+.portfolio .portfolio-item2 {
+  margin-bottom: 0px;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 20px auto;
