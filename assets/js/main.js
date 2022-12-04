@@ -234,7 +234,7 @@
     let portfolioContainer2 = select('.portfolio-container2');
     if (portfolioContainer2) {
       let portfolioIsotope = new Isotope(portfolioContainer2, {
-        itemSelector: '.portfolio-item'
+        itemSelector: '.portfolio-item2'
       });
 
       let portfolioFilters = select('#portfolio-flters li', true);
