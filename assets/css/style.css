@@ -1170,6 +1170,7 @@ section {
 .testimonials .testimonial-item {
   text-align: center;
   color: #fff;
+  margin-bottom: 20px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
