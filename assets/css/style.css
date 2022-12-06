@@ -825,8 +825,7 @@ section {
   color: #444444;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
-  border-radius: 3px;
-  border: 1px solid #ebebeb;
+  border: 2px solid #ebebeb;
 
 }
 
