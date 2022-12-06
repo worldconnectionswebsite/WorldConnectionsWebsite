@@ -1154,7 +1154,7 @@ section {
   left: 0;
   right: 0;
   top: 0;
-  bottom: 0;
+  bottom: 50;
   background: #fff;
 }
 
@@ -1170,7 +1170,7 @@ section {
 .testimonials .testimonial-item {
   text-align: center;
   color: #fff;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
