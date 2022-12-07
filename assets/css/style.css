@@ -823,15 +823,16 @@ section {
   line-height: 1;
   text-transform: uppercase;
   color: #444444;
+  background: #E2C56F;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
-  border: 2px solid #ebebeb;
+  border-radius: 3px;
 
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #151515;
+  color: #fff;
   background: #E2C56F;
 }
 
